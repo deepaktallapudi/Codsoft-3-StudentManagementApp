@@ -1,4 +1,4 @@
-# Codsoft-3-StudentManagementApp# Student Management System
+# Codsoft-3-StudentManagementApp
 
 A Java program that manages student records, allowing users to add, remove, search, update, and display student information.
 
